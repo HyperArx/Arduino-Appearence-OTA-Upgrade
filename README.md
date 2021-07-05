@@ -58,5 +58,6 @@ Conclusion ----------------------------------------------------
 ![Start](https://user-images.githubusercontent.com/86643678/124420573-52848880-dd7d-11eb-83d5-c87595095b70.PNG)
 ![theme](https://user-images.githubusercontent.com/86643678/124420580-56180f80-dd7d-11eb-9576-48aca0a32e0f.PNG)
 
-IF you have made some changes your IDE will like more cool than it was before and OTA will bw added to it.
+IF you have made some changes your IDE will like more cool than it was before and OTA will be added to it.
+
 CHEERS!!!
