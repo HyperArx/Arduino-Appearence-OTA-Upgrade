@@ -30,14 +30,14 @@ IMPORTANT( you will need to change the file extention and name or the IDE will n
 
 FILE NAMES----------------
 
-1) All icons = arduino.png ( icons shown in taskbar, without this there will be a java icon)
-2) about.png
-3) about@2x.png
-4) arduino.png
-5) arduino_icon.ico
-6) arduino_small.png
-7) splash.bmp
-8) splash.png (arduino ide start popup)
+1) All icons = 'arduino.png' ( icons shown in taskbar, without this there will be a java icon)
+2) 'about.png'
+3) 'about@2x.png'
+4) 'arduino.png'
+5) 'arduino_icon.ico'
+6) 'arduino_small.png'
+7) 'splash.bmp'
+8) 'splash.png' (arduino ide start popup)
 
 THEME------------------------------------------------------------
 
