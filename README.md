@@ -1,9 +1,9 @@
 # Arduino-Appearence-Upgrade
-Hey! Arduino Fans, I have came accross Hoe to maker your Arduino IDE look different and awesome than others.
-As Arduino Ide is open-source we can make changes without any licence problem. 
+Hey! Arduino Fans, I have came accross 'How to maker your Arduino IDE look different and awesome than others'. "INTRESTING RIGHT"
+As Arduino Ide is open-source we can make changes without any permissions. 
 I am also adding Arduino-OTA as esp has became an important part of home automation.
-So, Cheers!
 
+So,
 Lets get started
 
 POPUPS---------------------------------------------------------
