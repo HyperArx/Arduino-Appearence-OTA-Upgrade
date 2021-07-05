@@ -1,5 +1,7 @@
 # Arduino-Appearence-Upgrade
-As Arduino Ide is open-source we can make changes without any licence problem. I am also adding Arduino-OTA as esp has became an important part of home automation.
+Hey! Arduino Fans, I have came accross Hoe to maker your Arduino IDE look different and awesome than others.
+As Arduino Ide is open-source we can make changes without any licence problem. 
+I am also adding Arduino-OTA as esp has became an important part of home automation.
 So, Cheers!
 
 Lets get started
