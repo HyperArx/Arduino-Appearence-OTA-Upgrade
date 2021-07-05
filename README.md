@@ -48,9 +48,9 @@ You just need to go to your Arduino IDE installaton directory {----DRIVE-----\Ar
 ArduinoOTA----------------------------------------------------
 
 If you need to upload your program over the air to your ESP then you will need ArduinoOTA library.
-[ArduinoOTA-1.0.6.zip](https://github.com/HyperArx/Arduino-Appearence-Upgrade/files/6762038/ArduinoOTA-1.0.6.zip) Copy this file and replace it in {----DRIVE-----\Arduino\arduino-1.8.15\libraries}.
+[ESP-8266-OTA-main.zip](https://github.com/HyperArx/Arduino-Appearence-OTA-Upgrade/files/6764465/ESP-8266-OTA-main.zip) Extract this file and copy (ArduinoOTA-1.0.6) file and replace it in {----DRIVE-----\Arduino\arduino-1.8.15\libraries}.
 After this you will be able to upload your code Over-The-Air.
-
+In this (.zip) also there is an example (Ota.ino), you can use this file to check the OTA library is running properly or not.
 
 Conclusion ----------------------------------------------------
 
