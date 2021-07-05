@@ -1,5 +1,5 @@
 # Arduino-Appearence-Upgrade
-As Arduino Ide is open-source we can make changes without any licence problem. 
+As Arduino Ide is open-source we can make changes without any licence problem. I am also adding Arduino-OTA as esp has became an important part of home automation.
 So, Cheers!
 
 Lets get started
@@ -47,6 +47,13 @@ THEME------------------------------------------------------------
 If you want dark theme on your Arduino Ide 1.8.15 You can use the below file-------
 [DarkArduinoTheme-master.zip](https://github.com/HyperArx/Arduino-Appearence-Ubgrade/files/6761795/DarkArduinoTheme-master.zip)
 You just need to go to your Arduino IDE installaton directory {----DRIVE-----\Arduino\arduino-1.8.15\lib\theme} and replace the files in the destination.
+
+ArduinoOTA----------------------------------------------------
+
+If you need to upload your program over the air to your ESP then you will need ArduinoOTA library.
+[ArduinoOTA-1.0.6.zip](https://github.com/HyperArx/Arduino-Appearence-Upgrade/files/6762038/ArduinoOTA-1.0.6.zip) Copy this file and replace it in {----DRIVE-----\Arduino\arduino-1.8.15\libraries}.
+After this you will be able to upload your code Over-The-Air.
+
 
 Conclusion ----------------------------------------------------
 
