@@ -8,25 +8,36 @@ POPUPS---------------------------------------------------------
 
 ![about original](https://user-images.githubusercontent.com/86643678/124418834-fd934300-dd79-11eb-828a-1098316d8bd6.png)
 ORIGINAL
+
 ![about](https://user-images.githubusercontent.com/86643678/124418839-fec47000-dd79-11eb-90bf-fc5d7cb1529e.png)
 CUSTOMIZED
+
 ![about@2x original](https://user-images.githubusercontent.com/86643678/124418841-ff5d0680-dd79-11eb-8334-03c65ced396b.png)
 ORIGINAL
+
 ![about@2x](https://user-images.githubusercontent.com/86643678/124418843-fff59d00-dd79-11eb-95a5-63487acfd791.png)
 CUSTOMIZED
+
 ![arduino original](https://user-images.githubusercontent.com/86643678/124418846-0126ca00-dd7a-11eb-8fa1-852cd36c5ea6.png)
 ORIGINAL
+
 ![arduino](https://user-images.githubusercontent.com/86643678/124418849-0126ca00-dd7a-11eb-96b0-7e128ba9af1c.png)
 CUSTOMIZED
+
 ![arduino_small original](https://user-images.githubusercontent.com/86643678/124418851-0257f700-dd7a-11eb-8b31-a6b798fa2265.png)
 ORIGINAL
+
 ![arduino_small](https://user-images.githubusercontent.com/86643678/124418852-02f08d80-dd7a-11eb-88e0-f0b74e7511b0.png)
 CUSTOMIZED
+
 ![splash Original](https://user-images.githubusercontent.com/86643678/124418853-03892400-dd7a-11eb-9299-3d59d4c76f18.png)
-ORIGINAL[icons.zip](https://github.com/HyperArx/Arduino-Appearence-Ubgrade/files/6761846/icons.zip)
-[icons.zip](https://github.com/HyperArx/Arduino-Appearence-Ubgrade/files/6761849/icons.zip)
+ORIGINAL
+
 ![splash](https://user-images.githubusercontent.com/86643678/124418854-0421ba80-dd7a-11eb-9817-3910d5adb975.png)
 CUSTOMIZED
+
+[icons.zip](https://github.com/HyperArx/Arduino-Appearence-Ubgrade/files/6761849/icons.zip)
+CUSTOMIZED & ORIGINAL
 
 These are the files I have used to change the appearence of Arduino Ide. You just need to do some photo editing to change the appearence and replace the original file from the destination. If your program is installed in (C:) drive then your file will be installed in {C:\Program Files\Arduino\arduino-1.8.15\lib}.
 In (lib) you need to change the photos, theme, icons to customise your IDE's appearence.
