@@ -54,9 +54,9 @@ After this you will be able to upload your code Over-The-Air.
 
 Conclusion ----------------------------------------------------
 
-![Icon](https://user-images.githubusercontent.com/86643678/124420569-51535b80-dd7d-11eb-9dbf-2ab49d9e11fd.PNG)
-![Start](https://user-images.githubusercontent.com/86643678/124420573-52848880-dd7d-11eb-83d5-c87595095b70.PNG)
-![theme](https://user-images.githubusercontent.com/86643678/124420580-56180f80-dd7d-11eb-9576-48aca0a32e0f.PNG)
+![Icon](https://user-images.githubusercontent.com/86643678/124420569-51535b80-dd7d-11eb-9dbf-2ab49d9e11fd.PNG) ICON-------------------
+![Start](https://user-images.githubusercontent.com/86643678/124420573-52848880-dd7d-11eb-83d5-c87595095b70.PNG) START-----------------
+![theme](https://user-images.githubusercontent.com/86643678/124420580-56180f80-dd7d-11eb-9576-48aca0a32e0f.PNG) THEME-----------------
 
 IF you have made some changes your IDE will like more cool than it was before and OTA will be added to it.
 
