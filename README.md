@@ -26,7 +26,7 @@ CUSTOMIZED & ORIGINAL
 These are the files I have used to change the appearence of Arduino Ide. You just need to do some photo editing to change the appearence and replace the original file from the destination. If your program is installed in (C:) drive then your file will be installed in {C:\Program Files\Arduino\arduino-1.8.15\lib}.
 In (lib) you need to change the photos, theme, icons to customise your IDE's appearence.
 
-IMPORTANT( you will need to change the file extention and name or the IDE will not be able to recognize your changes)
+IMPORTANT (If you will change the file extention or name then the IDE will not be able to recognize your changes)
 
 FILE NAMES----------------
 
