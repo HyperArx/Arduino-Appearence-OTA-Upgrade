@@ -32,7 +32,7 @@ FILE NAMES----------------
 
 1) All icons = 'arduino.png' ( icons shown in taskbar, without this there will be a java icon)
 2) 'about.png'
-3) 'about@2x.png'
+3) 'about@2x.png' (this is not a mail id ; I dont know why it is showing as an E-mail id)
 4) 'arduino.png'
 5) 'arduino_icon.ico'
 6) 'arduino_small.png'
