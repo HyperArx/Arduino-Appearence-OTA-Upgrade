@@ -1,10 +1,10 @@
 # Arduino-Appearence-OTA-Upgrade
-Hey! Arduino Fans, I have came accross 'How to maker your Arduino IDE look different and awesome than others'. "INTRESTING RIGHT"
+Hey! Arduino Fans, I have came accross 'How to make your Arduino IDE look different and awesome than others'. "INTRESTING RIGHT?"
 As Arduino Ide is open-source we can make changes without any permissions. 
-I am also adding Arduino-OTA as esp has became an important part of home automation.
+I am also adding Arduino-OTA as esp8266 has became an important part of home automation.
 
 So,
-Lets get started
+Lets get started ◝(^ᗜ^)◜ 
 
 POPUPS---------------------------------------------------------
 
